@@ -1,0 +1,50 @@
+# External repositories (cloned during setup)
+external/
+
+# Data (downloaded during setup)
+data/
+
+# Checkpoints
+checkpoints/
+
+# Experiment results (reproducible from scripts)
+experiments/results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Large files
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+
+# Logs
+wandb/
+logs/
+outputs/
