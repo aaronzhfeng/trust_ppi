@@ -122,13 +122,6 @@ Multi-seed results (mean ± std) are computed with:
 python scripts/aggregate_multi_seed.py --model dscript --data yeast
 ```
 
-## Citation
+## License
 
-```bibtex
-@inproceedings{trustppi2026,
-  title={TrustPPI: Deformation Stability as a Model-Agnostic Trust Signal for Protein-Protein Interaction Prediction},
-  author={Anonymous},
-  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  year={2026}
-}
-```
+This project is released for academic research purposes.
